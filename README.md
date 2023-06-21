@@ -6,7 +6,6 @@
 - 💼 Full Stack Developer
 - 🔭 I'm currently looking for job opportunities
 - 🌱 I'm currently improving my JavaScript and React
-- 😄 Pronouns: he/him
 <br>
 
  <div>
