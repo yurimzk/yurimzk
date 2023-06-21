@@ -3,8 +3,9 @@
 ## I'm Yuri Tagomori
 
 - 🏖️ Based in Rio de Janeiro, Brazil
+- 💼 Full Stack Developer
 - 🔭 I'm currently looking for job opportunities
-- 🌱 I'm currently learning JavaScript and React
+- 🌱 I'm currently improving my JavaScript and React
 - 😄 Pronouns: he/him
 <br>
 
