@@ -2,7 +2,7 @@
 
 ## I'm Yuri Tagomori
 
-- 🏖️ I'm from Rio de Janeiro, Brazil
+- 🏖️ Based in Rio de Janeiro, Brazil
 - 🔭 I'm currently looking for job opportunities
 - 🌱 I'm currently learning JavaScript and React
 - 😄 Pronouns: he/him
