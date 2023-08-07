@@ -5,7 +5,7 @@
 - 🏖️ Based in Rio de Janeiro, Brazil
 - 💼 Full Stack Developer
 - 🔭 I'm currently looking for job opportunities
-- 🌱 I'm currently learning NodeJS and React
+- 🌱 I'm currently learning JavaScript and React
 <br>
 
  <div>
