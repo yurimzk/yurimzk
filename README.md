@@ -5,7 +5,6 @@
 - 🏖️ Based in Rio de Janeiro, Brazil
 - 💼 Front end Developer
 - 🔭 I'm currently looking for remote job opportunities
-- 🌱 I'm currently learning React
 <br>
 
  <div>
